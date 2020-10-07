@@ -1,10 +1,12 @@
-# Webpack SCSS Template
-This is a standard (empty) template for using webpack (with live reload) with babel-loader and SASS loader.
+# PanoramaBetter
+This is something I made in an hour to prove that we can use html elements as hotspot indicators in a 3d panorama view.
+
+Groetjes Folkert <3
 
 ## Installing
 ```
-git clone https://github.com/folkerthoogenraad/WebpackSCSSTemplate.git [YourProjectName]
-cd [YourProjectName]
+git clone https://github.com/folkerthoogenraad/PanoramaBetter.git
+cd PanoramaBetter
 npm install
 ```
 
