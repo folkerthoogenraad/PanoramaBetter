@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --watch --open",
+    "dev": "webpack-dev-server --watch --open --host 0.0.0.0",
     "build": "webpack --config webpack.config.js"
   },
   "author": "Folkert Hoogenraad",
